@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **how street photography led me to autonomous robotics!**
 
-- 📫 How to reach me **emilyzhou@princeton.edu**
+- 📫 Reach me at **emilyzhou@princeton.edu**
 
 - ⚡ Fun fact **I adore mangoes**
 
