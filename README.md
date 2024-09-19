@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Emily</h1>
 <h3 align="center">Studying ORFE and COS at Princeton</h3>
 
-- 🔭 I’m currently working on **autonomous navigation**
+- 🔭 I’m currently working on **ML for statistically-safe autonomous navigation**
 
 - 🌱 I’m currently learning **math :D**
 
